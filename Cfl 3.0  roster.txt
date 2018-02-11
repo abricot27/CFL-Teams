@@ -7,7 +7,7 @@ RB,Brandon Rutley,28,2012,78,68,73,70,84,72,0.5,2
 RB,Jean Beaulieu,25,2014,69,75,74,66,72,70,0.5,2
 WR,BJ Cunningham,28,2012,75,86,80,92,86,87,7.0,4
 WR,Nik Lewis,35,2004,80,75,70,80,70,82,3.0,2
-WR,Tiquan underwood,30,2009,68,78,74,80,84,73,1.0,3
+WR,Tiquan Underwood,30,2009,68,78,74,80,84,73,1.0,3
 WR,Ernest Jackson,30,2009,80,74,76,82,79,80,0.5,2
 WR,Alex Pierzchalski,25,2014,96,88,90,59,73,55,0.5,3
 WR,George Johnson,23,2016,77,92,64,74,77,59,0.3,2
@@ -46,7 +46,7 @@ WR,Joshua Stangby,26,2015,68,72,64,81,67,72,1.0,1
 OL,Jon Gott,31,2009,78,59,79,70,79,82,4.0,3
 OL,Jason Lauzon,26,2016,79,71,67,87,77,81,2.5,2
 OL,Alex Mateas,26,2015,71,67,86,55,82,82,1.0,1
-OL,SirVincent Rogers,31,2009,74,77,75,86,78,63,1.0,2
+OL,Sirvincent Rogers,31,2009,74,77,75,86,78,63,1.0,2
 OL,Jake Silas,25,2015,83,73,72,58,74,77,2.5,4
 K,Brett Maher,27,2013,60,84,68,74,82,84,1.2,4
 S,Adam Berger,27,2013,80,72,82,60,84,59,2.0,3
@@ -67,7 +67,7 @@ RB,James Wilder Jr,25,2014,57,62,83,73,72,74,2.0,2
 RB,Brandon Whitaker,31,2008,69,65,69,64,75,75,1.0,3
 RB,Anthony Coombs,24,2014,78,84,65,63,77,65,2.0,1
 RB,James Tuck,27,2014,71,76,83,82,63,71,0.5,3
-WR,S.J Green,32,2007,85,91,84,97,87,74,5.0,4
+WR,SJ Green,32,2007,85,91,84,97,87,74,5.0,4
 WR,Armanti Edwards,29,2010,70,79,84,70,75,87,2.0,2
 WR,DeVier Posey,27,2012,77,79,67,75,70,73,2.0,1
 WR,Jeff Fuller,27,2012,85,67,79,80,59,66,2.0,2
@@ -101,7 +101,7 @@ WR,Zed Mattias,23,2016,88,87,79,69,92,72,3.0,4
 CB,Terrell Rufus,21,2016,93,62,71,83,95,81,4.5,4
 DL,Denver Fillin,23,2016,68,77,69,62,86,71,1.0,4
 END_PLAYERS
-Quebec City Outlaws,QBC
+Quebec Outlaws,QBC
 RB,Hyacinthe Eustache,21,2016,81,80,73,88,81,91,4.5,4
 WR,Gale Sheamus,22,2016,64,75,82,71,88,72,3.0,4
 LB,Tendai Milton,22,2016,85,95,68,65,87,77,1.0,4
@@ -136,20 +136,20 @@ QB,Corwin Earl,22,2016,79,72,73,67,90,77,4.5,4
 RB,Coleman Cade,22,2016,78,90,63,65,91,64,1.0,4
 LB,Drennan Mel,21,2016,69,95,73,86,70,69,3.0,4
 END_PLAYERS
-Memphis Mad Dogs,MEM
+Memphis MadDogs,MEM
 QB,Adamo Vince,21,2016,83,80,67,80,77,66,3.0,4
 WR,Joe Horn,23,2016,99,80,63,81,70,76,4.5,4
 K,Donald Igwebuike,32,2009,73,80,92,85,75,92,2.0,4
 S,Kit Mayeso,22,2016,68,79,68,82,70,70,1.0,4
 LB,Alex Gordon,31,2007,81,82,73,83,66,74,2.0,3
 END_PLAYERS
-Hamlton Tiger-Cats,HAM
+Hamlton Tigercats,HAM
 QB,Zach Collaros,28,2012,75,63,73,70,85,77,4.5,4
 QB,Jeremiah Masoli,28,2012,81,61,73,73,68,70,3.0,2
 RB,Ross Scheuerman,24,2015,74,69,71,71,78,79,2.0,3
 RB,Mercier Timmis,23,2015,85,61,66,68,79,73,3.0,4
 RB,CJ Gable,29,2011,70,87,68,76,72,74,1.0,1
-RB,Carl-Olivier Prime,27,2013,84,61,87,74,68,64,1.0,1
+RB,Carl Olivier-Prime,27,2013,84,61,87,74,68,64,1.0,1
 WR,Jalen Saunders,24,2014,90,64,75,75,84,72,3.0,3
 WR,Luke Tasker,26,2013,86,62,69,87,76,67,4.0,2
 WR,Jasper Collins,25,2013,80,73,86,73,70,81,2.0,2
@@ -272,7 +272,7 @@ RB,Yves Cameron,23,2016,61,83,74,84,77,69,4.5,4
 WR,Naldo Ned,21,2016,87,77,59,63,85,74,2.5,4
 LB,Olivier Lachlan,23,2016,79,73,65,72,75,73,0.5,4
 END_PLAYERS
-British Lions,BC
+British Lions,BCC
 QB,Jonathan Jennings,25,2014,84,77,73,79,74,77,9.0,3
 WR,Bryan Burnham,27,2012,92,91,88,79,86,69,4.5,4
 LB,Solomon Elimimian,31,2008,75,73,83,63,80,85,3.7,2
